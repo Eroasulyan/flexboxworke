@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.text{
+    display: flex;
+    flex-flow: row row-reverse;
+    margin: 80px auto;
+    max-width: 800px;
+    height: 200px;
+    background: #4b0071;
+}
+
+.some{
+    width: 100px;
+    height: 100px;
+    color: #fff;
+    text-align: center;
+    line-height: 100px;
+    background: #00aca3;
+}
