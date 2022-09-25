@@ -7,18 +7,15 @@
 
 
 .text{
-
     display: flex;
-    flex-direction: column-reverse;
+    flex-flow: row wrap;
+    justify-content: space-between;
 
-    justify-content: flex-end;
-
-
-    margin: 200px auto;
-        
+    margin: 200px;
     max-width: 800px;
     height: 200px;
-    background: #4b0071;
+    background: #4b0071;  
+       
       
 
 }
