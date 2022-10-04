@@ -51,6 +51,30 @@
     }
     
 }
+
+#media{
+    display: none;
+    background: green;
+    padding: 15px;
+    color: #fff;
+    font-size: 25px;
+    font-family: cursive;
+    
+}
+
+@media  screen and (min-width: 300px) and (max-width: 600px){
+    #media{
+        display: block;
+    }
+        
+    
+     
+}
+
+    
+
+
+
  
 
 
