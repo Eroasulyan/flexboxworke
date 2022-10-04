@@ -31,6 +31,26 @@
     }
     
 }
+
+.top{
+    color: red;
+    background: gray;
+    font-family: arial;
+    padding: 10px;
+    font-size: 30px;
+    max-width: 400px;
+
+}
+
+@media  screen and (min-width: 400px) {
+    .top{
+        background: yellow;
+        font-family: cursive;
+        font-size: 25px;
+        padding: 30px;
+    }
+    
+}
  
 
 
